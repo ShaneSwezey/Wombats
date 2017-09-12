@@ -1,7 +1,7 @@
 -- Wombats Project Create Tables File and Triggers
 
 /* Creates initial table called project to store all information pertaining to owners, wombats, races, and etc.
-Table project will not part of the final table schema, 
+Table project will not part of the final table schema */
 
 CREATE TABLE project (
 	Owner_Name VARCHAR(255),
