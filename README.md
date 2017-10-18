@@ -2,7 +2,7 @@
 
 Wombats was the final project required to complete my database course.
 
-Unfortunately I was unable to find the syllobus for this project, but I will try to explain the project.
+Unfortunately, I was unable to find the syllobus for this project, but I will try to explain the project.
 
 The final project required me to create a MySQL database in which we would be storing information in reguards to racing wombats.
 If you are unfamiliar with wombats, please check out this wikipedia link on wombats.
