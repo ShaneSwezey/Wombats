@@ -16,7 +16,7 @@ Four seperate files were required for the project:
 
 Create_Wombat_Tables_And_Trigger_Queries.sql : This file contains all the creations of the tables, triggers, and proper displacement of the information of wombats.
 
-Create_Wombat_Tables_And_Trigger_Queries.sql: This file tested the triggers of the tables.
+Trigger_Tests.sql: This file tested the triggers of the tables.
 
 Question_Queries.sql: This file contained queries in which I was to answer questions after creating my Wombats database.
 
